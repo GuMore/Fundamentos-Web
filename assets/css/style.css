@@ -5,10 +5,14 @@ Estilos da pagina index.html*/
     text-align: center;
 }
 
+.justify{
+    text-align: justify;
+}
+
 .container {
     display: flex;
     flex-flow: row;
-    justify-content: flex center;
+    justify-content: center;
     align-items: center;
 }
 
@@ -40,4 +44,17 @@ Estilos da pagina index.html*/
     width: 540px;
     height: 370px;
 }
+.tm-social {
+width: 50px;
+height: 50px;
+}
+
+.mb-50{
+    margin-bottom: 50px;
+}
+
 /*Estilos da pagina contato.html
+*/
+.ml-50 {
+    margin-left: 50px;
+}
