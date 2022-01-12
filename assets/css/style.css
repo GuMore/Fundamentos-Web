@@ -1,6 +1,8 @@
 /*
 Estilos da pagina index.html*/
 
+.background-color
+
 .center {
     text-align: center;
 }
@@ -19,6 +21,7 @@ Estilos da pagina index.html*/
 #menu li{
     display: inline;
     padding: 15px;
+    justify-content: flex-end;
     text-decoration: none;
     
 }
